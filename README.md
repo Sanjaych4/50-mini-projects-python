@@ -4,7 +4,7 @@
 
 ---
 
-[Day 1: A number converter (binary, octal, hexadecimal, custom base)]('https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day1%20Number%20Converter')
+[Day 1: A number converter (binary, octal, hexadecimal, custom base)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day1%20Number%20Converter)
 
 [Day 2: A letter, word, and sentence counter](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day2%20Counter)
 
