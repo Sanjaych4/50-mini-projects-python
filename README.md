@@ -1,6 +1,6 @@
 # **50DaysOfPyProjects**
 
-## List of Projects that we are going to use here
+## List of Mini Projects that we will be doing here
 
 ---
 
@@ -106,4 +106,4 @@ Day 50: Wikipedia article loader (based on user input)
 
 ---
 
-#### **Note: The names of folders will be updated on the respective days.**
+#### **Note: The names of folders will be updated on the respective days.**s
