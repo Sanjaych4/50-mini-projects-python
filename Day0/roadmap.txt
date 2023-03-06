@@ -97,3 +97,5 @@ Day 48: A simple web browser that accepts a URL and loads it.
 Day 49: A habit builder app (notifies to drink water, to stand up every 30 minutes, etc.)
 
 Day 50: Wikipedia article loader (based on user input)
+
+The names of folders will be updated on the respective days.
