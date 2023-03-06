@@ -8,7 +8,7 @@
 
 [Day 2: A letter, word, and sentence counter](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day2%20Counter)
 
-[Day 3: The currency converter]()
+[Day 3: The currency converter](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day3%20Currency%20Converter)
 
 Day 4: A localized digital clock (time, date, day of week)
 
