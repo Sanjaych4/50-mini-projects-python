@@ -10,7 +10,7 @@
 
 [Day 3: The currency converter](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day3%20Currency%20Converter)
 
-Day 4: A localized digital clock (time, date, day of week)
+[Day 4: A localized digital clock (time, date, day of week)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day4%20Local%20Time)
 
 Day 5: Measurement calculator (weight, distance, area, volume, etc.)
 
