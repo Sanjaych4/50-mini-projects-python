@@ -12,7 +12,7 @@
 
 [Day 4: A localized digital clock (time, date, day of week)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day4%20Local%20Time)
 
-Day 5: Measurement calculator (weight, distance, area, volume, etc.)
+[Day 5: Measurement calculator (weight, distance, area, volume, etc.)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day5%20Measurement%20Calculator)
 
 Day 6: A tic-tac-toe game
 
