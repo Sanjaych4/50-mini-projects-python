@@ -14,7 +14,7 @@
 
 [Day 5: Measurement calculator (weight, distance, area, volume, etc.)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day5%20Measurement%20Calculator)
 
-Day 6: A tic-tac-toe game
+[Day 6: A tic-tac-toe game](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day6%20Tic%20tac%20toe)
 
 Day 7: A basic calculator
 
