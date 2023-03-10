@@ -16,7 +16,7 @@
 
 [Day 6: A tic-tac-toe game](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day6%20Tic%20tac%20toe)
 
-Day 7: A basic calculator
+[Day 7: A basic calculator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day7%20Basic%20Calculator)
 
 Day 8: A world (digital) clock for at least 5 cities on different continents
 
