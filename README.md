@@ -18,7 +18,7 @@
 
 [Day 7: A basic calculator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day7%20Basic%20Calculator)
 
-Day 8: A world (digital) clock for at least 5 cities on different continents
+[Day 8: A world (digital) clock for at least 5 cities on different continents](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day8%20Digital%20Clock)
 
 Day 9: Random quote generator
 
