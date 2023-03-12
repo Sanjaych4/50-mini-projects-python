@@ -20,7 +20,7 @@
 
 [Day 8: A world (digital) clock for at least 5 cities on different continents](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day8%20Digital%20Clock)
 
-Day 9: Random quote generator
+[Day 9: Random quote generator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day9%20Random%20Quote%20Generator)
 
 Day 10: A stopwatch (for specific seconds, minutes, etc.)
 
