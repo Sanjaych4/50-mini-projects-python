@@ -22,7 +22,7 @@
 
 [Day 9: Random quote generator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day9%20Random%20Quote%20Generator)
 
-Day 10: A stopwatch (for specific seconds, minutes, etc.)
+[Day 10: A stopwatch (for specific seconds, minutes, etc.)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day10%20Stopwatch)
 
 Day 11: A guessing game (tossing a coin, throwing a dice, a number within a range)
 
@@ -40,7 +40,7 @@ Day 17: A password generator
 
 Day 18: URL shortener
 
-Day 19: To-Do tracker (manage to-do items and notifies on the morning of the due date)
+Day 19: To-Do tracker (manage to-do items)
 
 Day 20: Event notifier (stores all your events and notifies (say) 30 minutes before)
 
