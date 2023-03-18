@@ -106,4 +106,4 @@ Day 50: Wikipedia article loader (based on user input)
 
 ---
 
-#### **Note: The names of folders will be updated on the respective days ..**
+#### **Note: The names of folders will be updated on the respective days .**
