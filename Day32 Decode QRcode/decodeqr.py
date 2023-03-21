@@ -1,5 +1,5 @@
 # Day 32: Decode a QR Code
-# `pip install pyzbar` and `pip install opencv-python` install pyzbar module before running this program
+# `pip install pyzbar` and `pip install opencv-python` install pyzbar and opencv modules before running this program
 
 import cv2
 from pyzbar import pyzbar
