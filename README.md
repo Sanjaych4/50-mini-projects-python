@@ -46,7 +46,7 @@ Day 20: Event notifier (stores all your events and notifies (say) 30 minutes bef
 
 Day 21: A 4 or 6-digit PIN generator
 
-Day 22: An alarm clock (also perform the activity at the said time like playing Spotify music)
+Day 22: An alarm clock
 
 Day 23: A rock-paper-scissor game
 
