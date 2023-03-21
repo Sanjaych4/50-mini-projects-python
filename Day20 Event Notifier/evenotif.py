@@ -1,3 +1,5 @@
+# Day 20: Event notifier (stores all your events and notifies (say) 30 minutes before)
+
 # Install the Win10toast module before running this program 
 #`pip install win10toast` copy and paste this terminal to install the win10toast package
 # note: this program only works on windows 10 or above, won't work on MAC OS
