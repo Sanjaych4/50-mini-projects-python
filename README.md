@@ -58,7 +58,7 @@ Day 26: Expense tracker
 
 Day 27: Display directories, subdirectories, files in a tree structure
 
-Day 28: Price comparison (grocery, flight, or train ticket, etc.)
+Day 28: Price comparison (flight)
 
 Day 29: QR Code generator
 
