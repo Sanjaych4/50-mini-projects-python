@@ -42,33 +42,33 @@
 
 [Day 19: To-Do tracker (manage to-do items)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day19%20ToDo%20Tracker)
 
-Day 20: Event notifier (stores all your events and notifies (say) 30 minutes before)
+[Day 20: Event notifier (stores all your events and notifies (say) 30 minutes before)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day20%20Event%20Notifier)
 
-Day 21: A 4 or 6-digit PIN generator
+[Day 21: A 4 or 6-digit PIN generator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day21%20Pin%20Generator)
 
-Day 22: An alarm clock
+[Day 22: An alarm clock](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day22%20Alarm%20Clock)
 
-Day 23: A rock-paper-scissor game
+[Day 23: A rock-paper-scissor game](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day23%20Rock%20Paper%20Scissor)
 
-Day 24: Convert a speech to text
+[Day 24: Convert a speech to text](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day24%20Speech%20to%20text)
 
-Day 25: Website blocker
+[Day 25: Website blocker](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day25%20Website%20Blocker)
 
-Day 26: Expense tracker
+[Day 26: Expense tracker](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day26%20Expense%20Tracker)
 
-Day 27: Display directories, subdirectories, files in a tree structure
+[Day 27: Display directories, subdirectories, files in a tree structure](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day27%20Directory%20Structure)
 
-Day 28: Price comparison (flight)
+[Day 28: Price comparison (flight)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day28%20Price%20Comparision)
 
-Day 29: QR Code generator
+[Day 29: QR Code generator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day29%20QR%20code%20generator)
 
-Day 30: Voice assistant (that understands a voice instruction and performs that activity)
+[Day 30: Voice assistant (that understands a voice instruction and performs that activity)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day30%20Voice%20assistant)
 
-Day 31: Generate a sudoku problem
+[Day 31: Generate a sudoku problem](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day31%20Sudoku%20problem)
 
-Day 32: Decode a QR Code
+[Day 32: Decode a QR Code](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day32%20Decode%20QRcode)
 
-Day 33: An image manipulator (contrast, brightness, etc.)
+[Day 33: An image manipulator (contrast, brightness, etc.)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day33%20Image%20Manipulator)
 
 Day 34: Solve a sudoku problem
 
