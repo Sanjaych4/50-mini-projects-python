@@ -84,7 +84,7 @@ Day 39: Site status checker (Up or down)
 
 ~~Day 40: A plagiarism checker (checks plagiarism against a fixed pool of content sources)~~
 
-Day 41: A YouTube video downloader
+~~Day 41: A YouTube video downloader~~
 
 Day 42: A quiz application
 
