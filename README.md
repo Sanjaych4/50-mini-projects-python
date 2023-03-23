@@ -90,9 +90,9 @@ Day 42: A quiz application
 
 Day 43: A music player
 
-Day 44: Content aggregator (search from a fixed set of websites for specific content, aggregate, and show to the user)
+~~Day 44: Content aggregator (search from a fixed set of websites for specific content, aggregate, and show to the user)~~
 
-Day 45: A web crawler
+~~Day 45: A web crawler~~
 
 Day 46: Check the typing speed and accuracy
 
