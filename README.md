@@ -88,7 +88,7 @@ Day 39: Site status checker (Up or down)
 
 Day 42: A quiz application
 
-Day 43: A music player (like Spotify)
+Day 43: A music player
 
 Day 44: Content aggregator (search from a fixed set of websites for specific content, aggregate, and show to the user)
 
