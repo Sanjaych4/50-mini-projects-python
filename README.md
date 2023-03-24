@@ -1,6 +1,6 @@
 # **50DaysOfPyProjects**
 
-## List of Mini Projects that we will be doing here
+## Projects and their redirects
 
 ---
 
@@ -34,7 +34,7 @@
 
 [Day 15: A scientific calculator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day15%20Scientific%20Calculator)
 
-Day 16: Timezone Converter
+[Day 16: Timezone Converter](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day16%20%20Timezone%20Converter)
 
 [Day 17: A password generator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day17%20Password%20Generator)
 
@@ -62,48 +62,47 @@ Day 16: Timezone Converter
 
 [Day 29: QR Code generator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day29%20QR%20code%20generator)
 
-~~[Day 30: Voice assistant (that understands a voice instruction and performs that activity)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day30%20Voice%20assistant)~~
+[Day 30: Voice assistant (that understands a voice instruction and performs that activity)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day30%20Voice%20assistant)
 
-Day 31: Text to speech
+[Day 31: Text to speech](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day31%20Text%20to%20Speech)
 
 [Day 32: Decode a QR Code](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day32%20Decode%20QRcode)
 
 [Day 33: An image manipulator (contrast, brightness, etc.)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day33%20Image%20Manipulator)
 
-Day 34: Solve a sudoku problem
+[Day 34: Solve a sudoku problem](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day34%20Sudoku%20Solver)
 
-Day 35: A tic-tac-toe game with a computer
+[Day 35: A tic-tac-toe game with a computer](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day35%20Tic%20tac%20toe%20with%20AI)
 
-Day 36: Manage Contacts (GUI based)
+[Day 36: Manage Contacts (GUI based)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day36%20Contact%20Manager)
 
-Day 37: A note-keeping app
+[Day 37: A note-keeping app](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day37%20Note%20keeping%20app)
 
-Day 38: A simple text editor
+[Day 38: A simple text editor](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day38%20Text%20Editor)
 
-Day 39: Site status checker (Up or down)
+[Day 39: Site status checker (Up or down)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day39%20Site%20Status%20Checker)
 
-Day 40: Select a site or sites
+[Day 40: Select a site or sites](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day40%20Select%20a%20site/selectsite)
 
-Day 41: File Downloader
+[Day 41: File Downloader](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day41%20File%20Downloader)
 
-Day 42: A quiz application
+[Day 42: A quiz application](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day42%20Quiz%20Application)
 
-Day 43: A music player
+[Day 43: A music player](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day43%20Music%20Player)
 
-Day 44: System Information
+[Day 44: System Information](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day44%20System%20Info)
 
-Day 45: Rearrange Files
+[Day 45: Rearrange Files](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day45%20Rearrange%20Files)
 
-Day 46: Check the typing speed and accuracy
+[Day 46: Check the typing speed and accuracy](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day46%20Typing%20Speed%20and%20Accuracy)
 
-Day 47: Wallpaper loop
+[Day 47: Wallpaper loop](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day47%20Wallpaper%20Loop)
 
-Day 48: web browser that accepts a URL and loads it.
+[Day 48: web browser that accepts a URL and loads it.](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day48%20Web%20Browser)
 
-Day 49: A habit builder app (notifies to drink water, to stand up every 30 minutes, etc.)
+[Day 49: A habit builder app (notifies to drink water, to stand up every 30 minutes, etc.)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day49%20Habit%20Builder)
 
-Day 50: Wikipedia article loader (based on user input)
+[Day 50: Wikipedia article loader (based on user input)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day50%20Wikipedia%20loader)
 
 ---
 
-#### **Note: The names of folders will be updated on the respective days .**
