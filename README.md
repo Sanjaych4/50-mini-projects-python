@@ -34,7 +34,7 @@
 
 [Day 15: A scientific calculator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day15%20Scientific%20Calculator)
 
-~~[Day 16: A localized analog clock (Incomplete) ](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day16%20%20A%20Localized%20Analog%20Clock)~~
+Day 16: Timezone Converter
 
 [Day 17: A password generator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day17%20Password%20Generator)
 
@@ -64,7 +64,7 @@
 
 ~~[Day 30: Voice assistant (that understands a voice instruction and performs that activity)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day30%20Voice%20assistant)~~
 
-~~[Day 31: Generate a sudoku problem](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day31%20Sudoku%20problem)~~
+Day 31: Text to speech
 
 [Day 32: Decode a QR Code](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day32%20Decode%20QRcode)
 
