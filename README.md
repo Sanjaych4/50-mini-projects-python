@@ -34,7 +34,7 @@
 
 [Day 15: A scientific calculator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day15%20Scientific%20Calculator)
 
-[Day 16: A localized analog clock (Incomplete) ](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day16%20%20A%20Localized%20Analog%20Clock)
+~~[Day 16: A localized analog clock (Incomplete) ](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day16%20%20A%20Localized%20Analog%20Clock)~~
 
 [Day 17: A password generator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day17%20Password%20Generator)
 
@@ -62,9 +62,9 @@
 
 [Day 29: QR Code generator](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day29%20QR%20code%20generator)
 
-[Day 30: Voice assistant (that understands a voice instruction and performs that activity)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day30%20Voice%20assistant)
+~~[Day 30: Voice assistant (that understands a voice instruction and performs that activity)](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day30%20Voice%20assistant)~~
 
-[Day 31: Generate a sudoku problem](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day31%20Sudoku%20problem)
+~~[Day 31: Generate a sudoku problem](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day31%20Sudoku%20problem)~~
 
 [Day 32: Decode a QR Code](https://github.com/Sanjaych4/50DaysOfPyProjects/tree/main/Day32%20Decode%20QRcode)
 
@@ -82,23 +82,23 @@ Day 38: A simple text editor
 
 Day 39: Site status checker (Up or down)
 
-~~Day 40: A plagiarism checker (checks plagiarism against a fixed pool of content sources)~~
+Day 40: Select a site or sites
 
-~~Day 41: A YouTube video downloader~~
+Day 41: File Downloader
 
 Day 42: A quiz application
 
 Day 43: A music player
 
-~~Day 44: Content aggregator (search from a fixed set of websites for specific content, aggregate, and show to the user)~~
+Day 44: System Information
 
-~~Day 45: A web crawler~~
+Day 45: Rearrange Files
 
 Day 46: Check the typing speed and accuracy
 
-Day 47: A web scraper
+Day 47: Wallpaper loop
 
-Day 48: A simple web browser that accepts a URL and loads it.
+Day 48: web browser that accepts a URL and loads it.
 
 Day 49: A habit builder app (notifies to drink water, to stand up every 30 minutes, etc.)
 
